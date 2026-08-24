@@ -1,0 +1,4 @@
+com\mycompany\survey\resources\User.class
+com\mycompany\survey\JakartaRestConfiguration.class
+com\mycompany\survey\resources\SurveyList.class
+com\mycompany\survey\resources\JakartaEE8Resource.class
