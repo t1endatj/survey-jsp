@@ -8,7 +8,7 @@ public class SurveyList extends HttpServlet{
     @Override protected void doPost(HttpServletRequest request,HttpServletResponse respone)
             throws ServletException,IOException {
         String url="/index.html";
-        //Get curent action
+        
         String action = request.getParameter("action");
         if(action == null){
             action = "join";

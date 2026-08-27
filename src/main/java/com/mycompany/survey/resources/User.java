@@ -41,7 +41,7 @@ public class User {
         this.emailAnnouncements = emailAnnouncements;
         this.contact = contact;
     }
-    // firstName
+  
     public String getFirstName() {
         return firstName;
     }
@@ -50,7 +50,7 @@ public class User {
         this.firstName = firstName;
     }
 
-    // lastName
+   
     public String getLastName() {
         return lastName;
     }
@@ -59,7 +59,7 @@ public class User {
         this.lastName = lastName;
     }
 
-    // email
+    
     public String getEmail() {
         return email;
     }
@@ -68,7 +68,7 @@ public class User {
         this.email = email;
     }
 
-    // dateOfBirth
+    
     public String getDateOfBirth() {
         return dateOfBirth;
     }
@@ -77,7 +77,7 @@ public class User {
         this.dateOfBirth = dateOfBirth;
     }
 
-    // source
+
     public String getSource() {
         return source;
     }
@@ -86,7 +86,7 @@ public class User {
         this.source = source;
     }
 
-    // announcements
+   
     public boolean isAnnouncements() {
         return announcements;
     }
@@ -95,7 +95,7 @@ public class User {
         this.announcements = announcements;
     }
 
-    // emailAnnouncements
+
     public boolean isEmailAnnouncements() {
         return emailAnnouncements;
     }
@@ -104,7 +104,7 @@ public class User {
         this.emailAnnouncements = emailAnnouncements;
     }
 
-    // contact
+  
     public String getContact() {
         return contact;
     }
